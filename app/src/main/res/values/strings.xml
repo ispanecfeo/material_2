@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Application themes</string>
+    <string name="settings">settings</string>
+    <string name="title_action_bar">App theme</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="theme_indigo">Theme indigo</string>
+    <string name="theme_lime">Theme lime</string>
+    <string name="card_text">Card text</string>
+</resources>

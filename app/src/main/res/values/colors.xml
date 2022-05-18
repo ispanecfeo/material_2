@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primaryColorPurple">#8e24aa</color>
+    <color name="primaryLightColorPurple">#c158dc</color>
+    <color name="primaryDarkColorPurple">#5c007a</color>
+    <color name="secondaryColorPurple">#ce93d8</color>
+    <color name="secondaryLightColorPurple">#ffc4ff</color>
+    <color name="secondaryDarkColorPurple">#9c64a6</color>
+    <color name="primaryTextColorPurple">#ffffff</color>
+    <color name="secondaryTextColorPurple">#000000</color>
+
+    <color name="primaryColorIndigo">#00bcd4</color>
+    <color name="primaryLightColorIndigo">#62efff</color>
+    <color name="primaryDarkColorIndigo">#008ba3</color>
+    <color name="secondaryColorIndigo">#009688</color>
+    <color name="secondaryLightColorIndigo">#52c7b8</color>
+    <color name="secondaryDarkColorIndigo">#00675b</color>
+    <color name="primaryTextColorIndigo">#000000</color>
+    <color name="secondaryTextColorIndigo">#000000</color>
+
+    <color name="primaryColorLime">#00c853</color>
+    <color name="primaryLightColorLime">#5efc82</color>
+    <color name="primaryDarkColorLime">#009624</color>
+    <color name="secondaryColorLime">#eeff41</color>
+    <color name="secondaryLightColorLime">#ffff78</color>
+    <color name="secondaryDarkColorLime">#b8cc00</color>
+    <color name="primaryTextColorLime">#000000</color>
+    <color name="secondaryTextColorLime">#000000</color>
+
+
+
+</resources>

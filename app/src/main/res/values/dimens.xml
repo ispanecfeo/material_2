@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="limeTextSize">50sp</dimen>
+    <dimen name="indigoTextSize">40sp</dimen>
+    <dimen name="defaultTextSize">40sp</dimen>
+
+    <dimen name="defaultCornerRadius">10dp</dimen>
+    <dimen name="indigoCornerRadius">5dp</dimen>
+    <dimen name="limeCornerRadius">20dp</dimen>
+    <dimen name="frame_height">250dp</dimen>
+    <dimen name="cardElevationIndigo">5dp</dimen>
+    <dimen name="cardElevationLime">25dp</dimen>
+
+</resources>

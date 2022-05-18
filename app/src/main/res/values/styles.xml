@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <style name="Widget.MaterialComponents.Chip.ChoiceIndigo" parent="Base.Widget.MaterialComponents.Chip">
+       <item name="android:checkable">true</item>
+
+       <item name="chipIconVisible">false</item>
+       <item name="checkedIconVisible">false</item>
+       <item name="closeIconVisible">false</item>
+
+       <item name="checkedIcon">@drawable/ic_mtrl_chip_checked_black</item>
+
+       <item name="android:textColor">@color/mtrl_choice_chip_text_color</item>
+
+       <item name="chipBackgroundColor">@color/mtrl_choice_chip_background_color</item>
+       <item name="rippleColor">@color/primaryColorIndigo</item>
+   </style>
+</resources>
